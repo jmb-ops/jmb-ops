@@ -1,4 +1,4 @@
-- 👋 Hello, I’m Jason,
+- 👋 Hello, I’m Jason, not to brag but im really good at making computer systems hard.
 - 👀 I’m a python programmer with degrees in cyber security and computer systems currently interested in everything python...
 -   I have recently created a python antivirus tool along with some tools that are used in pen testing.
 -   all of my code is created using only the python standard library that way there is no chance of supply-chain poisoning.
