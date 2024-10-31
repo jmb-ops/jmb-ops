@@ -1,5 +1,6 @@
 # CoderFortress
 👋 Hello I’m Jason, owner of [CoderFortress](https://sites.google.com/view/coderfortress/home) At CoderFortress, we specialize in providing exceptional IT services in cybersecurity, web development, and software development. Our mission is to empower your business with innovative and secure technology solutions.
+- check out my repositories below for some coding examples!
 
 ## Contact us
 
@@ -26,6 +27,7 @@ CompTIA A+ Certification
   Efficient and Reliable Software Solutions
   Expertise in Python, C, PowerShell, Bash, HTML, and CSS
 
+### Don't forget to check out some of my repositories below!
 <!---
 jmb-ops/jmb-ops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
