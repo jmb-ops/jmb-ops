@@ -10,16 +10,15 @@ codefortress4@gmail.com
 CoderFortress is founded by an IT professional with a strong educational background and hands-on experience:
 
 ### Education: 
-Associate Degrees in Cybersecurity and Computer Systems
+Associate Degrees in Cybersecurity and Computer Systems from Rio Hondo.
+
 Current Studies: Pursuing a Bachelor's in Cybersecurity and Information Assurance at WGU (Junior Year)
 
 ### Certifications: 
 CompTIA A+ Certification
 
 ### Our Services:
-- Cybersecurity
-  Comprehensive Vulnerability Assessments
-  Expert Consulting Services to safeguard your business
+- Cybersecurity: Vulnerability assessments and internet facing linux web server EDR services.
 - Web Development:
   Crafting Responsive, Visually Appealing Websites
   Tailored Solutions for Small Businesses and Individuals
@@ -28,6 +27,7 @@ CompTIA A+ Certification
   Expertise in Python, C, PowerShell, Bash, HTML, and CSS
 
 ### Don't forget to check out some of my repositories below!
+or, view our website CoderFortress by clicking [HERE](https://sites.google.com/view/coderfortress/home)
 <!---
 jmb-ops/jmb-ops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
