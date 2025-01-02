@@ -1,5 +1,5 @@
 # ITFortress
-👋 Hello I’m Jason, owner of [ITFortress](https://sites.google.com/view/coderfortress/home) At ITFortress, we specialize in providing exceptional IT services in cybersecurity, web development, and software development. Our mission is to empower your business with innovative and secure technology solutions.
+👋 Hello I’m Jason, owner of [ITFortress](https://sites.google.com/view/itfortress/home) At ITFortress, we specialize in providing exceptional IT services in cybersecurity, web development, and software development. Our mission is to empower your business with innovative and secure technology solutions.
 - check out my repositories below for some coding examples!
 
 ## Contact us
