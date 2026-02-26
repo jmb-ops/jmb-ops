@@ -1,8 +1,5 @@
 # Jason B.
-👋 Hello I’m Jason, owner of [ExeTrace](https://www.exetrace.com/).
-
-## Contact me
-j.bain.exetrace@gmail.com
+👋 Hello I’m Jason, founder and inventor of [ExeTrace](https://www.exetrace.com/) and Executable Drift Monitoring (EDM) A new layer of cybersecurity for endpoint protection. I also code games out of Python in my spare time! I also have future plans of creating a text editor with a GUI for both windows and linux.  
   
 ## About Me
 
@@ -13,11 +10,11 @@ Associate Degrees in Cybersecurity and Computer Systems from Rio Hondo.
 Current Studies: Pursuing a Bachelor's in Cybersecurity and Information Assurance at WGU (Senior Year)
 
 ### Certifications: 
-CompTIA A+ 
-CompTIA Network+
-CompTIA Security+
-CompTIA IT Operations Specialist
-CompTIA Secure Infrastructure Specialist
+CompTIA A+,
+CompTIA Network+,
+CompTIA Security+,
+CIOS,
+CSIS
 
 <!---
 jmb-ops/jmb-ops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
