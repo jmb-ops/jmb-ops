@@ -19,3 +19,4 @@ Outside of cybersecurity, I enjoy building games in Python and experimenting wit
 - CompTIA Security+  
 - CIOS  
 - CSIS
+- Linux Essentials
