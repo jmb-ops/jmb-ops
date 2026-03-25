@@ -1,22 +1,21 @@
-# Jason B.
-👋 Hello I’m Jason, founder and inventor of [ExeTrace](https://www.exetrace.com/) and Executable Drift Monitoring (EDM) A new layer of cybersecurity for endpoint protection. I also code games out of Python in my spare time! I also have future plans of creating a text editor with a GUI for both windows and linux.  
-  
-## About Me
+# Jason Bain
 
+👋 Founder & Systems Architect | Inventor of Executable Drift Monitoring (EDM)
 
-### Education: 
-Associate Degrees in Cybersecurity and Computer Systems from Rio Hondo.
+I am the creator of ExeTrace — a novel endpoint detection layer designed to close a blind spot that has existed in cybersecurity for decades. EDM is a new detection primitive focused on executable‑lifecycle drift: unauthorized mutation, replacement, or persistence of binaries that traditional EDR/EPP tools fail to observe.
 
-Current Studies: Pursuing a Bachelor's in Cybersecurity and Information Assurance at WGU (Senior Year)
+I built the ExeTrace engine from the ground up, including the full drift‑tracking logic, telemetry pipeline, and deterministic anomaly detection model. My work originated from a real-world encounter with a sophisticated trojan exhibiting stealthy persistence behavior.
 
-### Certifications: 
-CompTIA A+,
-CompTIA Network+,
-CompTIA Security+,
-CIOS,
-CSIS
+Outside of cybersecurity, I enjoy building games in Python and experimenting with GUI tooling.
 
-<!---
-jmb-ops/jmb-ops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Education
+- A.S. Cybersecurity — Rio Hondo College  
+- A.S. Computer Systems — Rio Hondo College  
+- B.S. Cybersecurity & Information Assurance (In Progress, WGU — Senior Year)
+
+## Certifications
+- CompTIA A+  
+- CompTIA Network+  
+- CompTIA Security+  
+- CIOS  
+- CSIS
