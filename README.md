@@ -6,8 +6,6 @@ I am the creator of ExeTrace — a novel endpoint detection layer designed to cl
 
 I built the ExeTrace engine from the ground up, including the full drift‑tracking logic, telemetry pipeline, and deterministic anomaly detection model. My work originated from a real-world encounter with a sophisticated trojan exhibiting stealthy persistence behavior.
 
-Outside of cybersecurity, I enjoy building games in Python and experimenting with GUI tooling.
-
 ## Education
 - A.S. Cybersecurity — Rio Hondo College  
 - A.S. Computer Systems — Rio Hondo College  
