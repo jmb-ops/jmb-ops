@@ -2,7 +2,7 @@
 
 👋 Founder & Systems Architect | Inventor of Executable Drift Monitoring (EDM)
 
-I am the founder and inventor of ExeTrace.
+founder and inventor of ExeTrace.
 
 ## Education
 - A.S. Cybersecurity — Rio Hondo College  
